@@ -2,7 +2,7 @@
 
 A train the trainer workshop on networking basics
 
-![Beam line](https://github.com/ingridbmason/Network-literacy/blob/master/AARNet-specific/AARNet_OrangeBeam.png)
+![Beam line](https://github.com/ingridbmason/Network-literacy/blob/master/AARNet_OrangeBeam.png)
 
 ---
 
