@@ -2,6 +2,8 @@
 
 A train the trainer workshop on networking basics
 
+![Beam line](https://github.com/ingridbmason/Network-literacy/blob/master/AARNet%20specific/AARNet_OrangeBeam.png)
+
 ---
 
 ### Network features
