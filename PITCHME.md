@@ -5,7 +5,6 @@ A train the trainer workshop on networking basics
 <p>&nbsp;</p>
 <p&nbsp;</p>
 
-![AARNet logo](AARNet-specific/AARNet_logo_withtag_mono.png)
 
 <img src="AARNet-specific/AARNet_OrangeBeam.png" align="bottom">
 
