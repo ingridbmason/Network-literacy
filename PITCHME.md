@@ -16,6 +16,10 @@ A train the trainer workshop on networking basics
 }
 </style>
 
+<div class="footer">
+  <p>Footer</p>
+</div>
+
 ---
 # Network Literacy
 
