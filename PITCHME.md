@@ -1,5 +1,4 @@
 # Network Literacy
-logo : AARNet-specific/AARNet_logo_withtag_mono.png
 
 A train the trainer workshop on networking basics
 <p>&nbsp;</p>
