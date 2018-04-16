@@ -3,6 +3,7 @@
 A train the trainer workshop on networking basics
 <p>&nbsp;</p>
 <p>&nbsp;</p>
+<p>&nbsp;</p>
 <img src="AARNet-specific/AARNet_OrangeBeam.png" align="bottom">
 
 ---
