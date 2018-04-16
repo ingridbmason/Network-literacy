@@ -2,7 +2,7 @@
 
 A train the trainer workshop on networking basics
 
----?image=AARNet-specific/AARNet_single_line.png&position=bottom center
+---?image=AARNet-specific/AARNet_single_line.png
 
 ---
 # Network Literacy
