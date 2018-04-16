@@ -1,11 +1,7 @@
 # Network Literacy
 
 A train the trainer workshop on networking basics
-
-
-
-
-
+<p>&nbsp;</p>
 
 <img src="AARNet-specific/AARNet_OrangeBeam.png" align="bottom">
 
