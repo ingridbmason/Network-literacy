@@ -12,4 +12,4 @@ A train the trainer workshop on networking basics
 
 ---
 
-![Global network map](https://news.aarnet.edu.au/wp-content/uploads/2015/06/AARNet-Map-June-20152-news-700x355.jpg)
+![Global network map](https://www.aarnet.edu.au/images/uploads/resources/AARNet_National_Network_Map_082017.pdf)
