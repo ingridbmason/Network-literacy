@@ -11,5 +11,11 @@ A train the trainer workshop on networking basics
 - Point 3
 
 ---
+### National network
 
-![Global network map](https://www.aarnet.edu.au/images/uploads/main/AARNet_International_Map_082017.png)
+![National network map] (https://www.aarnet.edu.au/images/uploads/main/AARNet_International_Map_082017.png)
+
+---
+### International network
+
+![International network map](https://www.aarnet.edu.au/images/uploads/main/AARNet_International_Map_082017.png)
