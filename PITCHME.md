@@ -4,6 +4,18 @@ A train the trainer workshop on networking basics
 
 <img src="AARNet-specific/AARNet_OrangeBeam.png" align="bottom 0px">
 
+<style>
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: red;
+    color: white;
+    text-align: center;
+}
+</style>
+
 ---
 # Network Literacy
 
