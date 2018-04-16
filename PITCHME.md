@@ -2,6 +2,11 @@
 
 A train the trainer workshop on networking basics
 
+
+
+
+
+
 <img src="AARNet-specific/AARNet_OrangeBeam.png" align="bottom">
 
 ---
