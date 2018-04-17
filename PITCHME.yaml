@@ -5,6 +5,6 @@ background : AARNet-specific/AARNet_OrangeBeam.png
 background-position : bottom
 background-size : contain
 logo : AARNet-specific/AARNet_logo_withtag_mono.png
-footnote : "Network literacy -- data movement and network know-how"
+footnote : 
 transition : none
 published : true
