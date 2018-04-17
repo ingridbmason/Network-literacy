@@ -1,6 +1,7 @@
 theme : white
 theme-override : AARNet-specific/PITCHME.css
-background : 
+background : AARNet-specific/AARNet_OrangeBeam.png
+background-position : bottom
 logo : AARNet-specific/AARNet_logo_withtag_mono.png
 footnote : "Network literacy -- data movement and network know-how"
 transition : none
