@@ -23,7 +23,7 @@ A train the trainer workshop on networking basics
 
 ---
 ### National network
-![National network map](AARNet_National_Network_Map_082017_resized.jpg)
+![National network map](AARNet-specific/AARNet_National_Network_Map_082017_resized.jpg)
 
 ---
 ### International network
