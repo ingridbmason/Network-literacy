@@ -1,6 +1,6 @@
 # Network Literacy
 Data movement and network know-how
-<span style="font-size:0.6em; color:gray">A train the trainer workshop</span> 
+<p style="font-size:0.6em; color:gray">A train the trainer workshop</p> 
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
