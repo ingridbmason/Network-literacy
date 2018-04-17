@@ -6,6 +6,7 @@ Data movement and network know-how
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
+<img src="AARNet-specific/AARNet_logo_withtag_mono.png" align="bottom">
 <img src="AARNet-specific/AARNet_OrangeBeam.png" align="bottom">
 
 Note:
