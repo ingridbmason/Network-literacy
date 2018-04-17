@@ -1,7 +1,6 @@
 # Network Literacy
-
-<span style="font-size:0.6em; color:gray">Data movement and network fundamentals</span> 
-A train the trainer workshop. 
+Data movement and network know-how
+<span style="font-size:0.6em; color:gray">A train the trainer workshop</span> 
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
