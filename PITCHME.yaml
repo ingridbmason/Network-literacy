@@ -1,6 +1,6 @@
 theme : white
 theme-override : AARNet-specific/PITCHME.css
 background : 
-logo : 
+logo : AARNet-specific/AARNet_logo_withtag_mono.png
 transition : none
 published : true
