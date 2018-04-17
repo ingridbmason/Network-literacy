@@ -21,7 +21,8 @@ A train the trainer workshop on networking basics
 - Point 2
 - Point 3
 
----image=AARNet-specific/AARNet_National_Network_Map_082017.png&size=contain
+---?
+image=AARNet-specific/AARNet_National_Network_Map_082017.png
 ### National network
 
 ---
