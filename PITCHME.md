@@ -1,7 +1,7 @@
 # Network Literacy
 
-## Data movement and network fundamentals. 
-A train the trainer workshop.
+<span style="font-size:0.6em; color:gray">Data movement and network fundamentals</span> 
+A train the trainer workshop. 
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
