@@ -2,11 +2,6 @@
 Data movement and network know-how
 <p style="font-size:0.6em; color:gray">A train the trainer workshop</p> 
 
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-
-<img src="AARNet-specific/AARNet_OrangeBeam.png" align="bottom">
 
 Note:
 Network literacy is useful for research data managers and researchers. 
