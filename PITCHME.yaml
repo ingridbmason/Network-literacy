@@ -2,6 +2,6 @@ theme : white
 theme-override : AARNet-specific/PITCHME.css
 background : 
 logo : AARNet-specific/AARNet_logo_withtag_mono.png
-footnote : "Data movement and network know-how -- AARNet"
+footnote : "Network literacy -- data movement and network know-how"
 transition : none
 published : true
