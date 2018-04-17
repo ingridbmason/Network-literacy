@@ -1,6 +1,6 @@
-theme : night
-theme-override : assets/css/PITCHME.css
-background : assets/images/wallpaper.jpg
-logo : assets/images/logo.png
+theme : white
+theme-override : AARNet-specific/PITCHME.css
+background : 
+logo : 
 transition : none
 published : true
