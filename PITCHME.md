@@ -23,8 +23,8 @@ A train the trainer workshop on networking basics
 
 ---
 ### National network
-![Single line](AARNet-specific/AARNet_single_line.png)
-image=AARNet-specific/AARNet_single_line.png&size=contain
+
+<a href="https://www.aarnet.edu.au/images/uploads/main/AARNet_National_Network_Map_082017.jpg"><img src="https://www.aarnet.edu.au/images/uploads/main/AARNet_National_Network_Map_082017.jpg" align="center" height="48" width="48" ></a>
 
 ---
 ### International network
