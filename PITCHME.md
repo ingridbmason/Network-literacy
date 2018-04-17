@@ -6,7 +6,6 @@ A train the trainer workshop.
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
 
 <img src="AARNet-specific/AARNet_OrangeBeam.png" align="bottom">
 
