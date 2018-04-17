@@ -7,7 +7,7 @@ Data movement and network know-how
 <p>&nbsp;</p>
 
 <img src="AARNet-specific/AARNet_OrangeBeam.png" align="bottom">
-<img src="AARNet-specific/AARNet_logo_withtag_mono.png" align="bottom" size="50%">
+<img src="AARNet-specific/AARNet_logo_withtag_mono.png" align="bottom" style="width: 50%; height: 50%">
 
 Note:
 Network literacy is useful for research data managers and researchers. 
