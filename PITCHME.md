@@ -11,7 +11,7 @@ Network literacy is useful for research data managers and researchers.
 
 A train the trainer workshop on networking basics
 
-![Single line](AARNet-specific/AARNet_single_line.png)
+![](AARNet-specific/AARNet_single_line.png)
 
 ---
 
@@ -23,7 +23,7 @@ A train the trainer workshop on networking basics
 
 ---
 ### National network
-
+![National network map](AARNet_National_Network_Map_082017_resized.jpg)
 
 ---
 ### International network
