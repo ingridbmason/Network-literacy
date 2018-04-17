@@ -24,7 +24,7 @@ A train the trainer workshop on networking basics
 ---
 ### National network
 
-![National network map](https://www.aarnet.edu.au/images/uploads/main/AARNet_International_Map_082017.png)
+![National network map](https://www.aarnet.edu.au/images/uploads/main/AARNet_National_Network_Map_082017.jpg)
 
 ---
 ### International network
