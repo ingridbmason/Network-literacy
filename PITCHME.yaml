@@ -2,6 +2,6 @@ theme : white
 theme-override : AARNet-specific/PITCHME.css
 background : 
 logo : AARNet-specific/AARNet_logo_withtag_mono.png
-footnote : "Testing 123"
+footnote : 
 transition : none
 published : true
