@@ -16,6 +16,9 @@ Network literacy is useful for research data managers and researchers handling a
 
 <p style="font-size:0.6em; color:gray">\*NREN = national research and education network </p> 
 
+Note:
+AARNet is Australia's national research and education network, or NREN.  AARNet's advanced research network infrastructure interconnects Australian institutions and organisations involved in research and education with the global research and education network community and resources across multiple 10, 40 and 100 gigabit per second (Gbps) links.  
+
 ---
 @title[Exercises]
 ### Hands On Exercises
