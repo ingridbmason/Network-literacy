@@ -13,6 +13,8 @@ Network literacy is useful for research data managers and researchers handling a
 - National research and education network (NREN) features
 - Network features
 
+<br>
+
 ### Exercises 
 - Speedtest
 - Ping
