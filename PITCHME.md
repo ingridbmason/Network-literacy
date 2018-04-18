@@ -90,8 +90,6 @@ Note that the download and upload speeds of the domestic broadband speeds factor
   </tr>
 </table>
 
-See <a href="https://www.nbnco.com.au/content/dam/nbnco2/documents/nbn-business-fact-sheets/nbn-business-fact-sheet-tc4.pdf">NBN Fact Sheet: Traffic Class 4 for data</a> 
-
 Note:
 Note that the download and upload speeds of the advanced research network are the same.   
 
