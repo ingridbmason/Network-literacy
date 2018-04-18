@@ -124,7 +124,7 @@ Australia lies at a distance from research conducted in other parts of the world
 ---
 @title[Network Features - Physical]
 ### Network features
-#### Physical
+<p style="color:gray">Physical</p>
 
 - Different topologies e.g. spurs, rings, stars   
 - Different speeds e.g. Mbps or Gbps links    
@@ -134,7 +134,7 @@ Australia lies at a distance from research conducted in other parts of the world
 ---
 @title[Network Features - Management]
 ### Network features
-#### Management
+<p style="color:gray">Management</p>
 
 - Dedicated e.g. science DMZ or shared e.g. enterprise
 - Manage different scales of data e.g. moving large files (TB or PB scale) or many files (2 or 200,000)
