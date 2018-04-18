@@ -31,7 +31,7 @@ Network literacy is useful for research data managers and researchers handling a
 - Fast - 10 Gbps > 40 Gbps > 100 Gbps
 - High capacity - 1 million + users 
 - Tailored for research, teaching and learning 
-- Low latency - consistent connectivity + response time
+- Low latency - consistent connectivity and response time
 
 ---
 @title[National Network]
