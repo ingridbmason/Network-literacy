@@ -41,7 +41,7 @@ AARNet is Australia's national research and education network, or NREN.  AARNet'
 ---
 @title[NREN v NBN]
 ### NREN v NBN
-<font size="0.6em"><table>
+<font size="2.0em"><table>
   <tr>
   <th>Network</th>
   <th>Download</th>
