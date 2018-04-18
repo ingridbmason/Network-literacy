@@ -8,7 +8,7 @@ Note:
 Network literacy is useful for research data managers and researchers. 
 
 ---
-@title{Network Features]
+@title[Network Features]
 ### Network features
 
 - Point 1
