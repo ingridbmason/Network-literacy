@@ -58,8 +58,11 @@ Australia lies at a distance from research conducted in other parts of the world
 @title[Network Features]
 ### Network features
 
-- Point 1
-- Point 2
-- Point 3
+- Dedicated or shared
+- Different topologies e.g. spurs, rings, stars   
+- Carry different levels and types of traffic e.g. Mbps, Gbps  
+- Affected by interference e.g. microwaves, lift motors, air-conditioning fans
+- Comprised of cables or wireless media
+- Traffic on networks can be restricted inside or outside (via firewall)  
 
 ---
