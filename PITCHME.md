@@ -40,8 +40,8 @@ AARNet is Australia's national research and education network, or NREN.  AARNet'
 
 ---
 @title[NREN v NBN]
-NREN v NBN
-<table>
+### NREN v NBN
+<font size="0.6em"><table>
   <tr>
   <th>Network</th>
   <th>Download</th>
@@ -71,7 +71,7 @@ NREN v NBN
     <td>100 Mbps</td>
     <td>40 Mbps</td>
   </tr>  
-</table>
+</table></font>
 
 See <a href="https://www.nbnco.com.au/content/dam/nbnco2/documents/nbn-business-fact-sheets/nbn-business-fact-sheet-tc4.pdf">NBN Fact Sheet: Traffic Class 4 for data</a> 
 
