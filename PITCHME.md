@@ -10,7 +10,7 @@ Network literacy is useful for research data managers and researchers handling a
 ---
 @title[Talking Points]
 ### Talking Points
-- NREN* & global network
+- NREN* and global network
 - Network features
 
 <p style="font-size:0.6em; color:gray">\*NREN = national research and education network</p> 
@@ -25,12 +25,13 @@ Network literacy is useful for research data managers and researchers handling a
 - Transfer bingo
 
 ---
-@title[Network Features]
-### Network features
+@title[NREN]
+### NREN
 
-- Point 1
-- Point 2
-- Point 3
+Fast - 10 Gbps > 40 Gbps > 100 Gbps
+High capacity - 1 million + users 
+Low latency - consistent connectivity and response time
+Tailored for research, teaching and learning 
 
 ---
 @title[National Network]
@@ -41,3 +42,13 @@ Network literacy is useful for research data managers and researchers handling a
 @title[International Network]
 ### International network
 ![International network map](https://www.aarnet.edu.au/images/uploads/main/AARNet_International_Map_082017.png)
+
+---
+@title[Network Features]
+### Network features
+
+- Point 1
+- Point 2
+- Point 3
+
+---
