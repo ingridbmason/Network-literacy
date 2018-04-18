@@ -17,7 +17,7 @@ Network literacy is useful for research data managers and researchers handling a
 
 ---
 @title[Exercises]
-### Exercises 
+### Exercises exercises
 
 - Speedtest
 - Ping
