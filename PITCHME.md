@@ -49,15 +49,15 @@ AARNet is Australia's national research and education network, or NREN.  AARNet'
   </tr>
 <tr>
     <td>NBN</td>
+    <td>100 Mbps</td>
+    <td>40 Mbps</td>
+  </tr> 
+<tr class="fragment">
+    <td>NBN</td>
     <td>1 Gbps</td>
     <td>400 Mbps</td>
   </tr>
- <tr class="fragment">
-    <td>NBN</td>
-    <td>100 Mbps</td>
-    <td>40 Mbps</td>
-  </tr>  
-</table>
+ </table>
 
 See <a href="https://www.nbnco.com.au/content/dam/nbnco2/documents/nbn-business-fact-sheets/nbn-business-fact-sheet-tc4.pdf">NBN Fact Sheet: Traffic Class 4 for data</a> 
 
@@ -76,18 +76,18 @@ Note that the download and upload speeds of the advanced research network are th
   </tr>
   <tr>
     <td>NREN</td>
-    <td>100 Gbps</td>
-    <td>100 Gbps</td>    
+    <td>10 Gbps</td>
+    <td>10 Gbps</td>    
   </tr>
   <tr class="fragment"> 
     <td>NREN</td>
     <td>40 Gbps</td>
     <td>40 Gbps</td>    
   </tr>
-  <tr class="fragment">
+<tr class = "fragment">
     <td>NREN</td>
-    <td>10 Gbps</td>
-    <td>10 Gbps</td>    
+    <td>100 Gbps</td>
+    <td>100 Gbps</td>    
   </tr>
 </table>
 
