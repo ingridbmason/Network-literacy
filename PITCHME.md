@@ -67,7 +67,6 @@ Note that the download and upload speeds of the domestic broadband speeds factor
 
 ---
 ### Testing 123
-### NBN
 <table>
   <tr>
   <th>Network</th>
@@ -75,14 +74,19 @@ Note that the download and upload speeds of the domestic broadband speeds factor
   <th>Upload</th>
   </tr>
 <tr>
-    <td>NBN</td>
-    <td>100 Mbps</td>
-    <td>40 Mbps</td>
+    <td>NREN</td>
+    <td>10 Gbps</td>
+    <td>10 Gbps</td>
   </tr> 
 <tr class="fragment">
-    <td>NBN</td>
-    <td>1 Gbps</td>
-    <td>400 Mbps</td>
+    <td>NREN</td>
+    <td>40 Gbps</td>
+    <td>40 Gbps</td>
+  </tr>
+<tr class="fragment">
+    <td>NREN</td>
+    <td>100 Gbps</td>
+    <td>100 Gbps</td>
   </tr>
  </table>
 
