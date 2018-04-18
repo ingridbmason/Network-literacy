@@ -22,7 +22,7 @@ Network literacy is useful for research data managers and researchers handling a
 - Speedtest
 - Ping
 - Trace route
-- Transfer rate bingo
+- Transfer bingo
 
 ---
 @title[Network Features]
