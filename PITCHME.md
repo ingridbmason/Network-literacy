@@ -10,7 +10,8 @@ Network literacy is useful for research data managers and researchers handling a
 ---
 @title[Talking Points]
 ### Talking Points
-- NREN* and global network
+- NREN* > advanced research network infrastructure
+- Global research and education network
 - Network features
 
 <p style="font-size:0.6em; color:gray">\*NREN = national research and education network</p> 
