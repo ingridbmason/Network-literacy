@@ -32,6 +32,7 @@ AARNet is Australia's national research and education network, or NREN.  AARNet'
 @title[Australian NREN]
 ### Australian NREN
 
+- Advanced research network infrastructure
 - Fast - 10 Gbps > 40 Gbps > 100 Gbps
 - High capacity - 1 million + users 
 - Tailored for research, teaching and learning 
