@@ -1,6 +1,6 @@
 @title[Network Literacy]
-<p style="color:gray"># Network Literacy</p>
-Data movement and network know-how
+# Network Literacy
+<p style="color:gray">Data movement and network know-how</p>
 <p style="font-size:0.6em; color:gray">A train the trainer workshop</p> 
 
 
