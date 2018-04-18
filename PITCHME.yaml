@@ -1,6 +1,5 @@
 theme : white
 theme-override : AARNet-specific/PITCHME.css
-layout : center
 background : AARNet-specific/AARNet_OrangeBeam.png
 background-position : bottom
 background-size : contain
