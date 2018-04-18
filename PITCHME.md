@@ -65,6 +65,34 @@ Note:
 Note that the download and upload speeds of the advanced research network are the same, whereas domestic broadband speeds factor more download than upload.   
 
 ---
+@title[NREN]
+### NREN
+
+<table>
+  <tr>
+  <th>Network</th>
+  <th>Download</th>
+  <th>Upload</th>
+  </tr>
+  <tr>
+    <td>NREN</td>
+    <td>100 Gbps</td>
+    <td>100 Gbps</td>    
+  </tr>
+  <tr class="fragment"> 
+    <td>NREN</td>
+    <td>40 Gbps</td>
+    <td>40 Gbps</td>    
+  </tr>
+  <tr class="fragment">
+    <td>NREN</td>
+    <td>10 Gbps</td>
+    <td>10 Gbps</td>    
+  </tr>
+</table>
+
+
+---
 @title[1TB Transfer]
 ### 1TB Transfer
 
