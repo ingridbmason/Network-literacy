@@ -39,30 +39,15 @@ AARNet is Australia's national research and education network, or NREN.  AARNet'
 - Low latency - consistent connectivity and response time
 
 ---
-@title[NREN v NBN]
-### NREN v NBN
+@title[NBN]
+### NBN
 <table>
   <tr>
   <th>Network</th>
   <th>Download</th>
   <th>Upload</th>
   </tr>
-  <tr>
-    <td>NREN</td>
-    <td>100 Gbps</td>
-    <td>100 Gbps</td>    
-  </tr>
-  <tr class="fragment"> 
-    <td>NREN</td>
-    <td>40 Gbps</td>
-    <td>40 Gbps</td>    
-  </tr>
-  <tr class="fragment">
-    <td>NREN</td>
-    <td>10 Gbps</td>
-    <td>10 Gbps</td>    
-  </tr>
-<tr class="fragment">
+<tr>
     <td>NBN</td>
     <td>1 Gbps</td>
     <td>400 Mbps</td>
