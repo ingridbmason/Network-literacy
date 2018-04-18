@@ -55,14 +55,24 @@ Note:
 Australia lies at a distance from research conducted in other parts of the world, like the northern hemisphere, and the networks AARNet provides, aid in removing distance as a barrier, to research collaboration.  
 
 ---
-@title[Network Features]
+@title[Network Features - Physical]
 ### Network features
+#### Physical
 
-- Dedicated e.g. science DMZ or shared e.g. enterprise
 - Different topologies e.g. spurs, rings, stars   
-- Carry different levels and types of traffic e.g. moving large files (TB or PB scale) or many files (200,000), on Gbps or Mbps links    
+- Different speeds e.g. Mbps or Gbps links    
 - Affected by interference e.g. microwaves, lift motors, air-conditioning fans
 - Comprised of cables or wireless media
-- Traffic on networks can be restricted inside or outside (via firewall)  
 
 ---
+@title[Network Features - Management]
+### Network features
+#### Management
+
+- Dedicated e.g. science DMZ or shared e.g. enterprise
+- Manage different scales of data e.g. moving large files (TB or PB scale) or many files (2 or 200,000)
+- Traffic on networks can be restricted inside or outside (via firewall)  
+
+
+
+
