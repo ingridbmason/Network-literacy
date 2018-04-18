@@ -8,13 +8,13 @@ Note:
 Network literacy is useful for research data managers and researchers handling and moving data either large single files or many many files in the GB-PB scale. Time spent testing network speeds and calculating transfer times aids to determine whether tools and methods for data upload and transfer are fit-for-purpose.    
 
 ---
-@title[Talking Points and Exercises]
+@title[Talking Points]
 ### Talking Points
 - National research and education network (NREN) features
 - Network features
 
-<br>
-
+---
+@title[Exercises]
 ### Exercises 
 - Speedtest
 - Ping
