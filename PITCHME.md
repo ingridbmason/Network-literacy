@@ -28,10 +28,10 @@ Network literacy is useful for research data managers and researchers handling a
 @title[NREN]
 ### NREN
 
-Fast - 10 Gbps > 40 Gbps > 100 Gbps
-High capacity - 1 million + users 
-Low latency - consistent connectivity and response time
-Tailored for research, teaching and learning 
+- Fast - 10 Gbps > 40 Gbps > 100 Gbps
+- High capacity - 1 million + users 
+- Low latency - consistent connectivity and response time
+- Tailored for research, teaching and learning 
 
 ---
 @title[National Network]
