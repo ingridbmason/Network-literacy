@@ -100,6 +100,8 @@ The download and upload speeds of the advanced research network are the same.
 
 ![Move 1TB Data](AARNet-specific/Data-Transfer-Infograph_400px.png)
 
+See Tech of the Internets <a href="https://techinternets.com/copy_calc">File Transfer Time Calculator</a> 
+
 Note:
 Time can be saved if the network speeds are tested ahead of trying to transfer data, network traffic levels are known, and file sizes have been calculated.  For example: I have 20TB data to transfer on a 40Gbps link.  How long will it take to transfer that data?  Answer: Speed: 40 Gbps, Size: 20 TB, Time: 1 Hours, 15 Minutes and 05 Seconds.   
 
