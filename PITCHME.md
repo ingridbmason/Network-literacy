@@ -68,7 +68,6 @@ Note that the download and upload speeds of the domestic broadband speeds factor
 ---
 @title[NREN]
 ### NREN
-- Something
 <table>
   <tr>
   <th>Network</th>
