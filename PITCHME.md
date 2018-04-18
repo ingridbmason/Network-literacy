@@ -92,7 +92,7 @@ The download and upload speeds of the domestic broadband speeds factor more down
  </table>
 
 Note:
-The download and upload speeds of the advanced research network are the same.   
+The download and upload speeds of the advanced research network are the same and the speeds are significantly greater.   
 
 ---
 @title[1TB Transfer]
