@@ -29,8 +29,8 @@ AARNet is Australia's national research and education network, or NREN.  AARNet'
 - Transfer bingo
 
 ---
-@title[NREN]
-### NREN
+@title[Australian NREN]
+### Australian NREN
 
 - Fast - 10 Gbps > 40 Gbps > 100 Gbps
 - High capacity - 1 million + users 
