@@ -13,7 +13,7 @@ Network literacy is useful for research data managers and researchers handling a
 - NREN* features
 - Network features
 
-<p style="font-size:0.6em; color:gray">NREN = national research and education network</p> 
+<p style="font-size:0.6em; color:gray">\*NREN = national research and education network</p> 
 
 ---
 @title[Exercises]
