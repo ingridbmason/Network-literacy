@@ -98,7 +98,7 @@ Note that the download and upload speeds of the advanced research network are th
 @title[1TB Transfer]
 ### 1TB Transfer
 
-![Move 1TB Data](https://news.aarnet.edu.au/wp-content/uploads/2015/09/Data-Transfer-Infograph.png)
+![Move 1TB Data](AARNet-specific/Data-Transfer-Infograph_400px.png)
 
 ---
 @title[National Network]
