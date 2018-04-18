@@ -89,8 +89,6 @@ Note that the download and upload speeds of the advanced research network are th
     <td>100 Gbps</td>    
   </tr>
 </table>
-
-
 ---
 @title[1TB Transfer]
 ### 1TB Transfer
