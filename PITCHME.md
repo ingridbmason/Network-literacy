@@ -42,10 +42,16 @@ AARNet is Australia's national research and education network, or NREN.  AARNet'
 ### National network 
 ![National network map](AARNet-specific/AARNet_National_Network_Map_082017_400px.png)
 
+Note: 
+Australia is a large continent, and the networks AARNet provides enable data capture and research to be conducted in high intensity areas (cities) and links out to regional areas, where universities and research facilities and infrastructure are located, like the National Computational Infrastructure (NCI) in Canberra and the Square Kilometre Array (SKA) in Murchison (WA).   
+
 ---
 @title[International Network]
 ### International network
 ![International network map](https://www.aarnet.edu.au/images/uploads/main/AARNet_International_Map_082017.png)
+
+Note:
+Australia lies at a distance from research conducted in other parts of the world, like the northern hemisphere, and the networks AARNet provides, aid in removing distance as a barrier, to research collaboration.  
 
 ---
 @title[Network Features]
