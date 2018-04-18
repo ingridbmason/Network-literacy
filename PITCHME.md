@@ -63,7 +63,7 @@ AARNet is Australia's national research and education network, or NREN.  AARNet'
 See <a href="https://www.nbnco.com.au/content/dam/nbnco2/documents/nbn-business-fact-sheets/nbn-business-fact-sheet-tc4.pdf">NBN Fact Sheet: Traffic Class 4 for data</a> 
 
 Note:
-Note that the download and upload speeds of the domestic broadband speeds factor more download than upload.   
+The download and upload speeds of the domestic broadband speeds factor more download than upload.   
 
 ---
 @title[NREN]
@@ -92,13 +92,16 @@ Note that the download and upload speeds of the domestic broadband speeds factor
  </table>
 
 Note:
-Note that the download and upload speeds of the advanced research network are the same.   
+The download and upload speeds of the advanced research network are the same.   
 
 ---
 @title[1TB Transfer]
 ### 1TB Transfer
 
 ![Move 1TB Data](AARNet-specific/Data-Transfer-Infograph_400px.png)
+
+Note:
+Time can be saved if the network speeds are tested ahead of trying to transfer data, network traffic levels are known, and file sizes have been calculated.  For example: I have 20TB data to transfer on a 40Gbps link.  How long will it take to transfer that data?  Answer: Speed: 40 Gbps, Size: 20 TB, Time: 1 Hours, 15 Minutes and 05 Seconds.   
 
 ---
 @title[National Network]
