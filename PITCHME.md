@@ -67,7 +67,6 @@ Note that the download and upload speeds of the advanced research network are th
 ---
 @title[NREN]
 ### NREN
-
 <table>
   <tr>
   <th>Network</th>
