@@ -30,7 +30,7 @@ Network literacy is useful for research data managers and researchers handling a
 ---
 @title[National Network]
 ### National network 
-![National network map](AARNet-specific/AARNet_National_Network_Map_082017_550px.png)
+![National network map](AARNet-specific/AARNet_National_Network_Map_082017_400px.png)
 
 ---
 @title[International Network]
