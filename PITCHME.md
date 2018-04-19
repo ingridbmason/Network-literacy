@@ -171,9 +171,9 @@ Note:
 @title[Data Collections]
 ### Research Data Services 
 
-- 90 data collections for medical and health research that total to 2200TB (average size/collection = 24TB)
-- 49 data collections hosted for cultures and community research that total to 359TB (average size/collection = 7TB)
-- 31 data collections for life sciences (genomics) research that total to 2237TB (average size/collection = 72TB)  
+<p style="font-size:0.6em; color:gray">- 90 data collections for medical and health research that total to 2200TB (average size/collection = 24TB)</p>
+<p style="font-size:0.6em; color:gray">- 49 data collections hosted for cultures and community research that total to 359TB (average size/collection = 7TB)</p>
+<p style="font-size:0.6em; color:gray">- 31 data collections for life sciences (genomics) research that total to 2237TB (average size/collection = 72TB)</p>  
 
 See <a href="https://www.rds.edu.au/research-communities">Research Community Projects</a>
 
