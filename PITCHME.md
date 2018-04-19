@@ -193,7 +193,7 @@ The Research Data Services program funded storage for domain specific data colle
 
 Network **bandwidth** tests generally measure the maximum **throughput** (of data that can be processed).   
 <br>
-<p style="color:gray">Network **throughput** is: measured in bits per second (bps) and calculated by dividing the file size.</p> 
+<p style="color:gray">Network throughput is: measured in bits per second (bps) and calculated by dividing the file size.</p> 
 
 Note:
 Network throughput is measured in bits per second (bps) of successful data processing (message delivery/file transfer) across the network.  Throughput is calculated by dividing the file size (1 byte = 8 bits) by the time (seconds) it takes to get the file between two points on the network.   
