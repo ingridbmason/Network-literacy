@@ -228,6 +228,7 @@ See explanation of <a href="http://www.plugthingsin.com/internet/speed/latency/"
 @title[Elephant Flows]
 ### Elephant Flows
 ![Elephant Flow Graph](AARNet-specific/EFgraph.png)
+
 Spot the large blocks of traffic (elephants) moving in and out of the network. 
 
 Note:
