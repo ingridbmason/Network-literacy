@@ -232,7 +232,6 @@ See explanation of <a href="http://www.plugthingsin.com/internet/speed/latency/"
 
 ![Science DMZ Data Rates](https://support.aarnet.edu.au/hc/en-us/article_attachments/211345288/D1.png)
 
-<p style="font-size:0.6em; color:gray">Science DMZ data rates: the table shows the bandwidth required to transfer data sizes for allotted time frames. The base data is sourced from ESnet and recalculated.</p>
 
 Note:
-What data rates are needed?  Q: If you want to send 100MB in 5 minutes? A: 2.67 Mbps.  Q: If you want to send 100TB overnight? A: 27.78 Gbps.  Q: If you want to send 100TB in an hour?  A: 222.22 Gbps.     
+<p style="font-size:0.6em; color:gray">Science DMZ data rates: the table shows the bandwidth required to transfer data sizes for allotted time frames. The base data is sourced from ESnet and recalculated. What data rates are needed?</p>  Q: If you want to send 100MB in 5 minutes? A: 2.67 Mbps.  Q: If you want to send 100TB overnight? A: 27.78 Gbps.  Q: If you want to send 100TB in an hour?  A: 222.22 Gbps.     
