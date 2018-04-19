@@ -220,7 +220,8 @@ See explanation of <a href="http://www.plugthingsin.com/internet/speed/latency/"
 
 ---
 @title[Elephant Flows]
-
+### Elephant Flows
+![Elephants CC-BY https://www.flickr.com/photos/birdbrian/33907040906/](
 
 ---
 @title[Science DMZ]
