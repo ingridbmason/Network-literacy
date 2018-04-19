@@ -255,7 +255,7 @@ Science DMZ architecture separates science traffic from general purpose traffic,
 
 ---
 @title[Transfer Bingo]
-### Transfer Bingo &#128640;
+### Transfer Bingo &#129299;
 
 ![Science DMZ Data Rates](https://support.aarnet.edu.au/hc/en-us/article_attachments/211345288/D1.png)
 <p style="font-size:0.4em; color:gray"><a href="https://support.aarnet.edu.au/hc/en-us/articles/226678987-Data-Rates">Science DMZ data rates</a></p>
