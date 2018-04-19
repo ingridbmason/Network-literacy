@@ -206,13 +206,26 @@ The Research Data Services program funded storage for domain specific data colle
 **Ping command**: Type "ping" \[space] `web address` \[enter] e.g. `ping aarnet.edu.au`     
 
 - **Windows**: open up the Command Prompt using “cmd”, type **ping** command
-- **Linux**: open a terminal window, type **ping** command (press CTRL and C to stop the ping command)
+- **Linux**: open a terminal window, type **ping** command (press CTRL and C to stop the command)
 - **Mac**: open up Network Utilities (using Spotlight) and select ping menu
 
 See <a href="https://www.wikihow.com/Ping-an-IP-Address">wikiHow</a>
 
 Note: 
-Pay attention to: the network address, speed in ms, packet loss, min/avg/max speeds
+Pay attention to: the network address, speed in ms, packet loss, and min/avg/max speeds.
+
++++
+
+@title[Traceroute]
+### Traceroute
+**Traceroute command**: Type "tracert" or "traceroute" \[space] `web address` \[enter] e.g. `tracert aarnet.edu.au`     
+
+- **Windows**: open up the Command Prompt using “cmd”, type **traceroute** command "tracert"
+- **Linux**: open a terminal window, type **tracerout** command "traceroute" (press CTRL and C to stop the command)
+- **Mac**: open up Network Utilities (using Spotlight) and select traceroute menu
+
+Note: 
+Pay attention to: the addresses, speed in ms, and hops. 
 
 ---
 @title[Bandwidth]
