@@ -37,8 +37,6 @@ AARNet is Australia's national research and education network, or NREN.  AARNet'
 - Test on: wifi and a mobile phone  
 - Pay attention to: upload vs download speeds 
 
-&#128640;
-
 Note:
 Speed - bandwidth and latency are important factors (i.e. the amount of data that can be received every second).  
 
@@ -229,6 +227,8 @@ See explanation of <a href="http://www.plugthingsin.com/internet/speed/latency/"
 
 
 ---
+@title[Transfer Bingo]
+### Transfer Bingo &#128640;
 
-
+![Science DMZ Data Rates](https://support.aarnet.edu.au/hc/en-us/article_attachments/211345288/D1.png)
 
