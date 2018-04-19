@@ -29,6 +29,15 @@ AARNet is Australia's national research and education network, or NREN.  AARNet'
 - Transfer bingo
 
 ---
+@title[Speed Test]
+### Speed Test
+
+<p style="color:gray">Speed - bandwidth and latency (the amount of data that can be received every second)</p>
+- Tools: http://www.speedtest.net/ or https://www.ozspeedtest.com/  
+- Test on: guest wifi - eduroam - mobile 
+- Pay attention to: upload vs download speeds 
+
+---
 @title[Australian NREN]
 ### Australian NREN
 
@@ -207,5 +216,14 @@ Note:
 See explanation of <a href="http://www.plugthingsin.com/internet/speed/latency/">latency</a>.  5 cars will get from point A to point B faster if they’re on a 5 lane freeway (low latency, high bandwidth) compared to the same number of cars making the same trip down a 1 lane freeway (low latency, small bandwidth).  
 
 ---
+@title[Elephant Flows]
+
+
+---
+@title[Science DMZ]
+
+
+---
+
 
 
