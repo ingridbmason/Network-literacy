@@ -168,12 +168,12 @@ Note:
 - 18 minutes | 100 Gbps (on the NREN)
 
 ---
-@title[Data Collections]
-### Research Data Services 
+@title[Data Collection Size]
+### Data Collection Size 
 
-- 90 data collections = 2200TB (average size/collection = 24TB)
-- 49 data collections = 359TB (average size/collection = 7TB)
-- 31 data collections = 2237TB (average size/collection = 72TB) 
+- 90 data collections = 2200TB (average = 24TB)
+- 49 data collections = 359TB (average = 7TB)
+- 31 data collections = 2237TB (average = 72TB) 
 
 See <a href="https://www.rds.edu.au/research-communities">Research Community Projects</a>
 
