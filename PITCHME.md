@@ -220,8 +220,8 @@ Pay attention to: the network address, speed in ms, packet loss, and min/avg/max
 ### Traceroute
 Type "tracert" or "traceroute" and `web address` e.g. `tracert aarnet.edu.au`     
 
-- **Windows**: open up the Command Prompt using “cmd”, type command "tracert"
-- **Linux**: open a terminal window, type command "traceroute" (press CTRL and C to stop the command)
+- **Windows**: open up the Command Prompt using “cmd”, type "tracert"
+- **Linux**: open a terminal window, type "traceroute" (press CTRL and C to stop the command)
 - **Mac**: open up Network Utilities (using Spotlight) and select traceroute menu
 
 Note: 
