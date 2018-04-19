@@ -37,6 +37,8 @@ AARNet is Australia's national research and education network, or NREN.  AARNet'
 - Test on: wifi and a mobile phone  
 - Pay attention to: upload vs download speeds 
 
+&#128640;
+
 Note:
 Speed - bandwidth and latency are important factors (i.e. the amount of data that can be received every second).  
 
