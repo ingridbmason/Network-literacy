@@ -185,7 +185,7 @@ Note:
 See <a href="https://www.rds.edu.au/research-communities">Research Community Projects</a>
 
 Note: 
-The Research Data Services program funded storage for domain specific data collections, examples here are: medical and health, cultures and community, and life sciences (genomics) respectively.  The sizes of the data collections vary, however these calculations emphasise what sort of network speed is needed to move a data collection let alone build a set of domain specific data collections. 
+The Research Data Services program funded storage for domain specific data collections, examples here are: medical and health, cultures and community, and life sciences (genomics) respectively.  The sizes of the data collections vary, however these calculations emphasise what sort of network speed is needed to move a data collection let alone build a library of data collections. 
 
 ---
 
