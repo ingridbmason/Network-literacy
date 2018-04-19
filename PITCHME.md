@@ -169,7 +169,7 @@ Think of wifi like rope where you unwind it and hand out each strand (as users l
 <p style="font-size:0.6em; color:gray">100MB is above the attachment size limits on most email services.</p> 
 
 Note:
-100MB is larger than the size of files that can be attached to a gmail message (size limit of 25MB for emails sent and 50MB for emails received).  See Google Update: https://gsuiteupdates.googleblog.com/2017/03/receive-emails-of-up-to-50mb-in-gmail.html   
+100MB is larger than the size of files that can be attached to a gmail message (size limit of 25MB for emails sent and 50MB for emails received).  See <a href="https://gsuiteupdates.googleblog.com/2017/03/receive-emails-of-up-to-50mb-in-gmail.html">Google Update</a>.   
 
 --- 
 @title[100TB Speed Tests]
