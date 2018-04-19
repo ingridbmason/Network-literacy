@@ -31,7 +31,7 @@ AARNet is Australia's national research and education network, or NREN.  AARNet'
 
 ---
 @title[Speed Test]
-### Speed Test
+### Speed Test &#128640;
 
 - Tool: http://www.speedtest.net/   
 - Test on: wifi and a mobile phone  
