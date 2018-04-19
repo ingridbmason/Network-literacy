@@ -28,8 +28,7 @@ AARNet is Australia's national research and education network, or NREN.  AARNet'
 - Trace route &#128270;
 - Transfer bingo &#129299;
 
-
----
++++
 @title[Speed Test]
 ### Speed Test &#128640;
 
