@@ -143,5 +143,15 @@ Australia lies at a distance from research conducted in other parts of the world
 Note:
 Think of wifi like rope where you unwind it and hand out each strand (as users log in).  The more uses, the less and less rope there is to hand out.  Many laptops link to an access point on the network (the wifi) and that access point divides up the traffic to each laptop user.   
 
+---
+@title[Size and Speed]
+### File Sizes and Network Speeds
+
+<p style="font-size:0.6em; color:gray">Download 100MB Speed Test</p>
+
+7 minutes | 3.38 Mbps (at home on poor ADSL)
+17 seconds | 54 Mbps (at a conference on wifi) 
+8 seconds | 100 Mbps (on the NBN)
+microseconds | 10 Gbps (on the NREN) 
 
 
