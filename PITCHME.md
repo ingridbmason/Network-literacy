@@ -188,4 +188,14 @@ Note:
 The Research Data Services program funded storage for domain specific data collections, examples here are: medical and health, cultures and community, and life sciences (genomics) respectively.  The sizes of the data collections vary, however these calculations emphasise what sort of network speed is needed to move a data collection let alone build a library of data collections. 
 
 ---
+@title[Bandwidth]
+### Bandwidth
+
+Network *bandwidth* tests generally measure the maximum *throughput* (of data that can be processed).   
+<br>
+Network *throughput* is: measured in bits per second (bps) and calculated by dividing the file size. 
+
+Note:
+Network throughput is measured in bits per second (bps) of successful data processing (message delivery/file transfer) across the network.  Throughput is calculated by dividing the file size (1 byte = 8 bits) by the time (seconds) it takes to get the file between two points on the network.   
+
 
