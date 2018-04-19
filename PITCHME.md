@@ -25,7 +25,7 @@ AARNet is Australia's national research and education network, or NREN.  AARNet'
 
 - Speedtest &#128640;
 - Ping &#128266;
-- Trace route &#128270;
+- Traceroute &#128270;
 - Transfer bingo &#129299;
 
 +++
@@ -140,7 +140,8 @@ Australia lies at a distance from research conducted in other parts of the world
 
 - Different topologies e.g. spurs, rings, stars   
 - Different speeds e.g. Mbps or Gbps links    
-- Affected by interference e.g. microwaves, lift motors, air-conditioning fans
+- Affected by interference e.g. 
+waves, lift motors, air-conditioning fans
 - Comprised of cables or wireless media
 
 ---
@@ -163,7 +164,7 @@ Think of wifi like rope where you unwind it and hand out each strand (as users l
 - 7 minutes | 3.38 Mbps (at home on poor ADSL)
 - 17 seconds | 54 Mbps (at a conference on wifi) 
 - 8 seconds | 100 Mbps (on the NBN)
-- microseconds | 10 Gbps (on the NREN) 
+- milliseconds | 10 Gbps (on the NREN) 
 
 <p style="font-size:0.6em; color:gray">100MB is above the attachment size limits on most email services.</p> 
 
@@ -198,6 +199,20 @@ See <a href="https://www.rds.edu.au/research-communities">Research Community Pro
 
 Note: 
 The Research Data Services program funded storage for domain specific data collections, examples here are: medical and health, cultures and community, and life sciences (genomics) respectively.  The sizes of the data collections vary, however these calculations emphasise what sort of network speed is needed to move a data collection let alone build a library of data collections. 
+
+---
+@title[Ping]
+### Ping
+Windows users: open up the Command Prompt using “cmd”, type "ping", press space bar, type *web URL* or *IP address*, press enter 
+<br>
+Mac users: open up Network Utilities (using Spotlight) and select ping menu, type in *web URL* or *IP address* 
+<br>
+Linux users: open a terminal window, type "ping" in the Command Window, press space bar, type *web URL* or *IP address* press enter, press CTRL and C to stop the ping command, and to see results. 
+
+See <a href="https://www.wikihow.com/Ping-an-IP-Address">wikiHow</p>
+
+Notes: 
+Pay attention to: the network address, speed in ms, packet loss, min/avg/max speeds
 
 ---
 @title[Bandwidth]
