@@ -153,6 +153,9 @@ Think of wifi like rope where you unwind it and hand out each strand (as users l
 - 8 seconds | 100 Mbps (on the NBN)
 - microseconds | 10 Gbps (on the NREN) 
 
+Note:
+100MB is larger than the size of files that can be attached to a gmail message (size limit of 25MB for emails sent and 50MB for emails received).  See Google Update: https://gsuiteupdates.googleblog.com/2017/03/receive-emails-of-up-to-50mb-in-gmail.html   
+
 --- 
 @title[100TB Speed Tests]
 ### 100TB Speed Test
@@ -164,4 +167,6 @@ Think of wifi like rope where you unwind it and hand out each strand (as users l
 - 46 minutes | 40 Gbps (on the NREN) 
 - 18 minutes | 100 Gbps (on the NREN)
 
+Note:
+The Research Data Services program has 90 data collections hosted for medical and health research that total to 2200TB (average count = 24TB); 49 data collections hosted for cultures and community research that total to 359TB (average count = 7TB), and 31 data collections for life sciences (genomics) research that total to 2237TB (average count = 72TB).    
 
