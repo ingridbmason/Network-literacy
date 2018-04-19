@@ -237,7 +237,13 @@ Elephants (in green) can be seen out through Friday to Sunday, and on Monday and
 ---
 @title[Science DMZ]
 ### Science DMZ
+A scientific network:  
+- Optimised for big data science particularly where research facilities are geographically distributed
+- Does not share the same firewall as the rest of the campus network
+- Improves performance for big data science - and - regular users of the campus network  
 
+Note:
+Campus network architecture is not designed for large data flows.  
 
 ---
 @title[Transfer Bingo]
