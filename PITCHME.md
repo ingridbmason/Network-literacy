@@ -206,3 +206,8 @@ Network throughput is measured in bits per second (bps) of successful data proce
 
 Note: 
 See explanation of <a href="http://www.plugthingsin.com/internet/speed/latency/">latency</p>.  
+
+---
+![Low latency](AARNet-specific/Latency.png) 
+
+
