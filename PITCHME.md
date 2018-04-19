@@ -198,4 +198,11 @@ Network **bandwidth** tests generally measure the maximum **throughput** (of dat
 Note:
 Network throughput is measured in bits per second (bps) of successful data processing (message delivery/file transfer) across the network.  Throughput is calculated by dividing the file size (1 byte = 8 bits) by the time (seconds) it takes to get the file between two points on the network.   
 
+---
+@title[Latency]
+### Latency
 
+5 cars will get from point A to point B faster if they’re on a 5 lane freeway (low latency, high bandwidth) compared to the same number of cars making the same trip down a 1 lane freeway (low latency, small bandwidth).
+
+Note: 
+See explanation of <a href="http://www.plugthingsin.com/internet/speed/latency/">latency</p>.  
