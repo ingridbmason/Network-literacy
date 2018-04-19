@@ -225,6 +225,9 @@ See explanation of <a href="http://www.plugthingsin.com/internet/speed/latency/"
 <p style="font-size:0.4em;"><a href="https://www.flickr.com/photos/birdbrian/33907040906/">CC-BY 2.0 Brian Ralphs</a></p>
 
 ---
+![Elephant Flow Graph](https://keep.google.com/#NOTE/1524114132340.1091523351)
+
+---
 @title[Science DMZ]
 
 
