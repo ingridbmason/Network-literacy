@@ -221,8 +221,8 @@ See explanation of <a href="http://www.plugthingsin.com/internet/speed/latency/"
 ---
 @title[Elephant Flows]
 ### Elephant Flows
-![Elephants CC-BY https://www.flickr.com/photos/birdbrian/33907040906/](AARNet-specific/33907040906_ebd7db1cff_z.jpg)
-<p style="font-size:0.2em; color:gray">CC-BY 2.0 Brian Ralphs</p>
+![Elephants CC-BY 2.0 Brian Ralphs](AARNet-specific/33907040906_ebd7db1cff_z.jpg)
+<p style="font-size:0.4em;"><a href="https://www.flickr.com/photos/birdbrian/33907040906/">CC-BY 2.0 Brian Ralphs</a></p>
 
 ---
 @title[Science DMZ]
