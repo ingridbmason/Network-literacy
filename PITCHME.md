@@ -203,12 +203,9 @@ The Research Data Services program funded storage for domain specific data colle
 ---
 @title[Ping]
 ### Ping
-<p style="font-size:0.8em; color:gray">
-- Windows users: open up the Command Prompt using “cmd”, type "ping", press space bar, type *web URL* or *IP address*, press enter 
-<br>
-- Mac users: open up Network Utilities (using Spotlight) and select ping menu, type in *web URL* or *IP address* 
-<br>
-- Linux users: open a terminal window, type "ping" in the Command Window, press space bar, type *web URL* or *IP address* press enter, press CTRL and C to stop the ping command, and to see results.</p> 
+- **Windows users**: open up the Command Prompt using “cmd”, type "ping", press space bar, type *web URL* or *IP address*, press enter 
+- **Mac users**: open up Network Utilities (using Spotlight) and select ping menu, type in *web URL* or *IP address* 
+- **Linux users**: open a terminal window, type "ping" in the Command Window, press space bar, type *web URL* or *IP address* press enter, press CTRL and C to stop the ping command, and to see results.</p> 
 
 See <a href="https://www.wikihow.com/Ping-an-IP-Address">wikiHow</a>
 
