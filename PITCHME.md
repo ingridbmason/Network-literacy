@@ -241,8 +241,10 @@ A scientific network:
 - Optimised for big data science 
 - Improves overall network performance 
 
+<p style="font-size:0.4em;">Science Demilitarised Zone architecture separates science traffic from general purpose traffic, diverting large flows of data around the institutional firewall.</p> 
+
 Note:
-Campus network architecture is not designed for large data flows.  Big data science may require data moved between institutions and research facilities that are geographically distributed. Implementing science DMZ improves network performance for big data science - and - regular users of the campus network.  
+Campus network architecture is not designed for large data flows.  Science data transfer applications have unique network requirements that increasingly can’t be met by networks that are optimized for normal business operations like web browsing and business systems.  Big data science may require data moved between institutions and research facilities that are geographically distributed. Implementing science DMZ improves network performance for big data science - and - regular users of the campus network.  
 
 ---
 @title[Transfer Bingo]
