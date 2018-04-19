@@ -203,7 +203,7 @@ The Research Data Services program funded storage for domain specific data colle
 ---
 @title[Ping]
 ### Ping
-**Ping command**: Type "ping" \[space] `*web address*` \[enter] e.g. `ping aarnet.edu.au`     
+**Ping command**: Type "ping" \[space] `web address` \[enter] e.g. `ping aarnet.edu.au`     
 
 - **Windows**: open up the Command Prompt using “cmd”, type **ping** command
 - **Linux**: open a terminal window, type **ping** command (press CTRL and C to stop the ping command)
