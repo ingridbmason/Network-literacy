@@ -201,12 +201,11 @@ Network throughput is measured in bits per second (bps) of successful data proce
 ---
 @title[Latency]
 ### Latency
-![Low latency](AARNet-specific/Latency.png) 5 cars will get from point A to point B faster if they’re on a 5 lane freeway (low latency, high bandwidth) compared to the same number of cars making the same trip down a 1 lane freeway (low latency, small bandwidth).
+![Low latency](AARNet-specific/Latency_.png) 
 
 Note: 
-See explanation of <a href="http://www.plugthingsin.com/internet/speed/latency/">latency</p>.  
+See explanation of <a href="http://www.plugthingsin.com/internet/speed/latency/">latency</a>.  5 cars will get from point A to point B faster if they’re on a 5 lane freeway (low latency, high bandwidth) compared to the same number of cars making the same trip down a 1 lane freeway (low latency, small bandwidth).  
 
 ---
-![Low latency](AARNet-specific/Latency_.png) 
 
 
