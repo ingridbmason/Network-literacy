@@ -203,7 +203,7 @@ The Research Data Services program funded storage for domain specific data colle
 ---
 @title[Ping]
 ### Ping
-<p style="font-size:0.6em; color:gray">Windows users: open up the Command Prompt using “cmd”, type "ping", press space bar, type *web URL* or *IP address*, press enter 
+<p style="font-size:0.4em; color:gray">Windows users: open up the Command Prompt using “cmd”, type "ping", press space bar, type *web URL* or *IP address*, press enter 
 <br>
 Mac users: open up Network Utilities (using Spotlight) and select ping menu, type in *web URL* or *IP address* 
 <br>
@@ -211,7 +211,7 @@ Linux users: open a terminal window, type "ping" in the Command Window, press sp
 
 See <a href="https://www.wikihow.com/Ping-an-IP-Address">wikiHow</a>
 
-Notes: 
+Note: 
 Pay attention to: the network address, speed in ms, packet loss, min/avg/max speeds
 
 ---
