@@ -160,9 +160,11 @@ Think of wifi like rope where you unwind it and hand out each strand (as users l
 
 <p style="font-size:0.6em; color:gray">Download 100MB Speed Test</p>
 
-- 119357 hours 38 minutes | 3.38 Mbps (at home on poor ADSL)
-- 4793 hours 47 minutes | 54 Mbps (at a conference on wifi) 
-- 2444 hours 26 minutes | 100 Mbps (on the NBN)
-- 24 hours 26 minutes | 10 Gbps (on the NREN) 
+- 4973 days | 3.38 Mbps (at home on poor ADSL)
+- 199 days | 54 Mbps (at a conference on wifi) 
+- 101 days | 100 Mbps (on the NBN)
+- 1 day | 10 Gbps (on the NREN) 
+- 46 minutes | 40 Gbps (on the NREN) 
+- 18 minutes | 100 Gbps (on the NREN)
 
 
