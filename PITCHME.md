@@ -32,10 +32,12 @@ AARNet is Australia's national research and education network, or NREN.  AARNet'
 @title[Speed Test]
 ### Speed Test
 
-<p style="color:gray">Speed - bandwidth and latency (the amount of data that can be received every second)</p>
-- Tools: http://www.speedtest.net/ or https://www.ozspeedtest.com/  
-- Test on: guest wifi - eduroam - mobile 
+- Tool: http://www.speedtest.net/   
+- Test on: wifi and a mobile phone  
 - Pay attention to: upload vs download speeds 
+
+Note:
+Speed - bandwidth and latency are important factors (i.e. the amount of data that can be received every second).  
 
 ---
 @title[Australian NREN]
