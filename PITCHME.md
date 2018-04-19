@@ -167,6 +167,18 @@ Note:
 - 46 minutes | 40 Gbps (on the NREN) 
 - 18 minutes | 100 Gbps (on the NREN)
 
-Note:
-The Research Data Services program has 90 data collections hosted for medical and health research that total to 2200TB (average count = 24TB); 49 data collections hosted for cultures and community research that total to 359TB (average count = 7TB), and 31 data collections for life sciences (genomics) research that total to 2237TB (average count = 72TB).    
+---
+@title[Data Collections]
+### Research Data Services 
+
+- 90 data collections for medical and health research that total to 2200TB (average size/collection = 24TB)
+- 49 data collections hosted for cultures and community research that total to 359TB (average size/collection = 7TB)
+- 31 data collections for life sciences (genomics) research that total to 2237TB (average size/collection = 72TB)  
+
+See <a href="https://www.rds.edu.au/research-communities">Research Community Projects</a>
+
+Note: 
+The Research Data Services program funded storage for domain specific data collections.  The sizes of the data collections vary, however these calculations emphasise what sort of network speed is needed to move a data collection let alone build a set of domain specific data collections. 
+
+---
 
