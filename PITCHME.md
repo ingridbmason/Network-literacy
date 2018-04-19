@@ -203,9 +203,10 @@ The Research Data Services program funded storage for domain specific data colle
 ---
 @title[Ping]
 ### Ping
-- **Windows**: open up the Command Prompt using “cmd”, then **ping**
-- **Linux**: open a terminal window, press CTRL and C to stop the ping command
-- **Ping**: Type "ping" then type `*web URL* or *IP address*`  
+**Ping Command**: Type "ping" \[space]\ type `*web address*` e.g. `ping aarnet.edu.au`     
+
+- **Windows**: open up the Command Prompt using “cmd”, type **ping** command
+- **Linux**: open a terminal window, type **ping** command (press CTRL and C to stop the ping command)
 - **Mac**: open up Network Utilities (using Spotlight) and select ping menu
 
 See <a href="https://www.wikihow.com/Ping-an-IP-Address">wikiHow</a>
