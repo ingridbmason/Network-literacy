@@ -23,7 +23,7 @@ AARNet is Australia's national research and education network, or NREN.  AARNet'
 @title[Exercises]
 ### Hands On Exercises
 
-- Speedtest
+- Speedtest :horse_racing:
 - Ping
 - Trace route
 - Transfer bingo
