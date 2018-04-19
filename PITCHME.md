@@ -207,6 +207,6 @@ Note:
 See explanation of <a href="http://www.plugthingsin.com/internet/speed/latency/">latency</p>.  
 
 ---
-![Low latency](AARNet-specific/Latency.svg) 
+![Low latency](AARNet-specific/Latency_.png) 
 
 
