@@ -205,8 +205,8 @@ The Research Data Services program funded storage for domain specific data colle
 ### Ping
 Type "ping" and web address e.g. `ping aarnet.edu.au`     
 
-- **Windows**: open up the Command Prompt using “cmd”, type **ping** command
-- **Linux**: open a terminal window, type **ping** command (press CTRL and C to stop the command)
+- **Windows**: open up the Command Prompt using “cmd”, type **ping**
+- **Linux**: open a terminal window, type **ping** (press CTRL and C to stop the command)
 - **Mac**: open up Network Utilities (using Spotlight) and select ping menu
 
 See <a href="https://www.wikihow.com/Ping-an-IP-Address">wikiHow</a>
@@ -220,8 +220,8 @@ Pay attention to: the network address, speed in ms, packet loss, and min/avg/max
 ### Traceroute
 Type "tracert" or "traceroute" and web address e.g. `tracert aarnet.edu.au`     
 
-- **Windows**: open up the Command Prompt using “cmd”, type "tracert"
-- **Linux**: open a terminal window, type "traceroute" (press CTRL and C to stop the command)
+- **Windows**: open up the Command Prompt using “cmd”, type **tracert**
+- **Linux**: open a terminal window, type **traceroute** (press CTRL and C to stop the command)
 - **Mac**: open up Network Utilities (using Spotlight) and select traceroute menu
 
 Note: 
