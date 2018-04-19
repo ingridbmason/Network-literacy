@@ -209,7 +209,7 @@ Mac users: open up Network Utilities (using Spotlight) and select ping menu, typ
 <br>
 Linux users: open a terminal window, type "ping" in the Command Window, press space bar, type *web URL* or *IP address* press enter, press CTRL and C to stop the ping command, and to see results.</p> 
 
-See <a href="https://www.wikihow.com/Ping-an-IP-Address">wikiHow</p>
+See <a href="https://www.wikihow.com/Ping-an-IP-Address">wikiHow</a>
 
 Notes: 
 Pay attention to: the network address, speed in ms, packet loss, min/avg/max speeds
