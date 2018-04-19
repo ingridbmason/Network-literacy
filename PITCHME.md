@@ -199,7 +199,7 @@ Note:
 Network throughput is measured in bits per second (bps) of successful data processing (message delivery/file transfer) across the network.  Throughput is calculated by dividing the file size (1 byte = 8 bits) by the time (seconds) it takes to get the file between two points on the network.   
 
 ---
-@title[Latency]
+@title[Low Latency]
 ### Latency
 ![Low latency](AARNet-specific/Latency_.png) 
 
