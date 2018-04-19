@@ -220,7 +220,7 @@ See explanation of <a href="http://www.plugthingsin.com/internet/speed/latency/"
 
 ---
 @title[Elephants]
-### Elephant Flows
+### Elephants
 ![Elephants CC-BY 2.0 Brian Ralphs](AARNet-specific/33907040906_ebd7db1cff_z.jpg)
 <p style="font-size:0.4em;"><a href="https://www.flickr.com/photos/birdbrian/33907040906/">CC-BY 2.0 Brian Ralphs</a></p>
 
@@ -232,11 +232,11 @@ See explanation of <a href="http://www.plugthingsin.com/internet/speed/latency/"
 Spot the large blocks of traffic (elephants) moving in and out of the network. 
 
 Note:
-Elephants (in green) can be seen out through Friday to Sunday, and on Monday and Tuesday across the network.  Elephants (in pink/purple lines) can be seen moving in on Thursday, Monday and Wednesday.   
+Elephants (in green) can be seen out through Friday to Sunday, and on Monday and Tuesday across the network.  Elephants (in pink/purple lines) can be seen moving in on Thursday, Monday and Wednesday.  The NREN has been purpose built to support "bursting" to support "elephant flows".  
 
 ---
-
 @title[Science DMZ]
+### Science DMZ
 
 
 ---
