@@ -219,15 +219,22 @@ Note:
 See explanation of <a href="http://www.plugthingsin.com/internet/speed/latency/">latency</a>.  5 cars will get from point A to point B faster if they’re on a 5 lane freeway (low latency, high bandwidth) compared to the same number of cars making the same trip down a 1 lane freeway (low latency, small bandwidth).  
 
 ---
-@title[Elephant Flows]
+@title[Elephants]
 ### Elephant Flows
 ![Elephants CC-BY 2.0 Brian Ralphs](AARNet-specific/33907040906_ebd7db1cff_z.jpg)
 <p style="font-size:0.4em;"><a href="https://www.flickr.com/photos/birdbrian/33907040906/">CC-BY 2.0 Brian Ralphs</a></p>
 
 ---
+@title[Elephant Flows]
+### Elephant Flows
 ![Elephant Flow Graph](AARNet-specific/EFgraph.png)
+Spot the large blocks of traffic (elephants) moving in and out of the network. 
+
+Note:
+Elephants (in green) can be seen out through Friday to Sunday, and on Monday and Tuesday across the network.  Elephants (in pink/purple lines) can be seen moving in on Thursday, Monday and Wednesday.   
 
 ---
+
 @title[Science DMZ]
 
 
