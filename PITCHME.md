@@ -21,20 +21,26 @@ Note:
 AARNet is Australia's national research and education network, or NREN.  AARNet's advanced research network infrastructure interconnects Australian institutions and organisations involved in research and education with the global research and education network community and resources across multiple 10, 40 and 100 gigabit per second (Gbps) links.  
 
 ---
-@title[Data Movement Problems]
-### Data Movement Problems
+@title[Effective Data Movement]
+### Effective Data Movement
 Key factors in effective data movement: 
 - network speeds
 - researcher time
-- tools (sync and webDAV)
+- tools (*sync* and *webDAV*)
 
 Note:
-Researchers can encounter data movement problems in the MB scale and upward in GB, TB and PB scale.  When there is a need for example, to move multiple files from sensors into storage and onto cloud compute or to move large files from equipment to storage and HPC.   
+Researchers can encounter data movement problems in the MB scale and upward in GB, TB and PB scale.  When there is a need for example, to move multiple files from sensors into storage and onto cloud compute or to move large files from equipment to storage and HPC.  Using sync and webDAV to move data can save researcher's time.       
 
-<p style="font-size:0.6em; color:gray; align:center">Two examples *many files* or *chunky files*:</p>
-<p style="font-size:0.6em; color:gray">100MB (e.g. iPhone images 50 jpeg@2MB or 3 NetCDF@32MB)</p> 
-<p style="font-size:0.6em; color:gray">100TB (e.g. 25,000 images bigTIFF@4GB or 333 videos H.264/MPEG-4 AVC@300GB)</p>
+---
+@title[Data Movement Problems]
+### Data Movement Problems
 
+Two examples *many files* or *chunky files*:
+- 100MB (e.g. iPhone images 50 jpeg@2MB or 3 NetCDF@32MB) 
+- 100TB (e.g. 25,000 images bigTIFF@4GB or 333 videos H.264/MPEG-4 AVC@300GB)
+
+Note:
+File sizes and file numbers that make up a dataset or data collection can vary.  Researchers work outdoors on satellite connections, from home on domestic broadband, or from their workplace on the advanced research network.  Data movement problems crop up for researchers in all shapes and sizes.        
 
 ---
 @title[Exercises]
