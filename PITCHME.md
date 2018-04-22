@@ -23,10 +23,11 @@ AARNet is Australia's national research and education network, or NREN.  AARNet'
 ---
 @title[Data Movement Problems]
 ### Data Movement Problems
-
-Two examples to illustrate when networks and researcher time are key factors in effective data movement approaches.     
+     
 - 100MB many files (e.g. iPhone images 50 jpeg@2MB/file or 3 NetCDF@32MB) 
 - 100TB many files and larger files (e.g. 25,000 bigTIFF@4GB or 333 4K video@300GB) 
+
+<p style="font-size:0.6em; color:gray">Two examples to illustrate when networks and researcher time are key factors in effective data movement approaches.</p>
 
 Note:
 Researchers can encounter data movement problems in the MB scale and upward in GB, TB and PB scale.  When there is a need for example, to move multiple files from sensors into storage and onto cloud compute or to move large files from equipment to storage and HPC.   
