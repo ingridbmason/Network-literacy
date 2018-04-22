@@ -36,8 +36,8 @@ Researchers can encounter data movement problems in the MB scale and upward in G
 ### Data Movement Problems
 
 Two examples *many files* or *chunky files*:
-- 100MB (e.g. iPhone images 50 jpeg@2MB or 3 NetCDF@32MB) 
-- 100TB (e.g. 25,000 images bigTIFF@4GB or 333 videos H.264/MPEG-4 AVC@300GB)
+<p style="color:gray">100MB (e.g. iPhone images 50 jpeg@2MB or 3 NetCDF@32MB)</p> 
+<p style="color:gray">100TB (e.g. 25,000 images bigTIFF@4GB or 333 videos H.264/MPEG-4 AVC@300GB)</p>
 
 Note:
 File sizes and file numbers that make up a dataset or data collection can vary.  Researchers work outdoors on satellite connections, from home on domestic broadband, or from their workplace on the advanced research network.  Data movement problems crop up for researchers in all shapes and sizes.        
