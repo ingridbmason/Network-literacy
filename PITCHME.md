@@ -24,9 +24,11 @@ AARNet is Australia's national research and education network, or NREN.  AARNet'
 @title[Data Movement Problems]
 ### Data Movement Problems
 
-Two examples *many files* or *chunky files* and key factors in effective data movement: 
+Two examples *many files* or *chunky files*.
+Key factors in effective data movement: 
 - network speeds
 - researcher time
+- tools (sync and webDAV)
 
 <p style="font-size:0.6em; color:gray">100MB (e.g. iPhone images 50 jpeg@2MB or 3 NetCDF@32MB)</p> 
 <p style="font-size:0.6em; color:gray">100TB (e.g. 25,000 images bigTIFF@4GB or 333 videos H.264/MPEG-4 AVC@300GB)</p>
