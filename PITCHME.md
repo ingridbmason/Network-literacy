@@ -27,7 +27,7 @@ AARNet is Australia's national research and education network, or NREN.  AARNet'
 - 100MB many files (e.g. iPhone images 50 jpeg@2MB or 3 NetCDF@32MB) 
 - 100TB many files and larger files (e.g. 25,000 images bigTIFF@4GB or 333 videos H.264/MPEG-4 AVC@300GB) 
 
-<p style="font-size:0.6em; color:gray">Two examples to illustrate when networks and researcher time are key factors in effective data movement approaches.</p>
+<p style="font-size:0.6em; color:gray">Two examples to illustrate when networks and researcher time are key factors in effective data movement approaches e.g. sync clients and webDAV.</p>
 
 Note:
 Researchers can encounter data movement problems in the MB scale and upward in GB, TB and PB scale.  When there is a need for example, to move multiple files from sensors into storage and onto cloud compute or to move large files from equipment to storage and HPC.   
