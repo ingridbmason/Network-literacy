@@ -24,9 +24,9 @@ AARNet is Australia's national research and education network, or NREN.  AARNet'
 @title[Effective Data Movement]
 ### Effective Data Movement
 Key factors in effective data movement: 
-- network speeds
-- researcher time
-- tools (*sync* and *webDAV*)
+- Network speeds
+- Researcher time
+- Tools (*sync* and *webDAV*)
 
 Note:
 Researchers can encounter data movement problems in the MB scale and upward in GB, TB and PB scale.  When there is a need for example, to move multiple files from sensors into storage and onto cloud compute or to move large files from equipment to storage and HPC.  Using sync and webDAV to move data can save researcher's time.       
@@ -40,7 +40,7 @@ Two examples *many files* or *chunky files*:
 <p style="color:gray">100TB (e.g. 25,000 characterisation images bigTIFF@4GB or 333 videos H.264/MPEG-4 AVC@300GB)</p>
 
 Note:
-File sizes and file numbers that make up a dataset or data collection can vary.  Researchers work outdoors on satellite connections, from home on domestic broadband, or from their workplace on the advanced research network.  Data movement problems crop up for researchers in all shapes and sizes.        
+File sizes and file numbers that make up a dataset or data collection can vary as well as network speeds.  Researchers work outdoors on satellite connections, from home on domestic broadband, or from their workplace on the advanced research network.  Data movement problems crop up for researchers in all shapes and sizes.        
 
 ---
 @title[Exercises]
