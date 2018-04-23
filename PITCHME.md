@@ -1,5 +1,5 @@
 @title[Network Literacy]
-## Data Handling and Network Literacy
+### Data Handling and Network Literacy
 <p style="color:gray">Data movement and network know-how</p>
 <p style="font-size:0.6em; color:gray">A train the trainer workshop</p> 
 
