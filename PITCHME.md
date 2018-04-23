@@ -263,7 +263,7 @@ Network throughput is measured in bits per second (bps) of successful data proce
 
 ---
 @title[Low Latency]
-### Latency
+### Low Latency
 ![Low latency](AARNet-specific/Latency_.png) 
 
 Note: 
