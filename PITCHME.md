@@ -143,7 +143,7 @@ Time can be saved if the network speeds are tested ahead of trying to transfer d
 ---
 @title[National Network]
 ### National network 
-![National network map](AARNet-specific/AARNet_National_Network_Map_082017_400px.png)
+![National network map](https://www.aarnet.edu.au/images/uploads/main/AARNet_National_Network_Map_082017.jpg)
 
 Note: 
 Australia is a large continent, and the networks AARNet provides enable data capture and research to be conducted in major cities and in regional areas, where universities and research facilities and infrastructure are located, e.g. the National Computational Infrastructure (NCI) in Canberra and the Square Kilometre Array (SKA) in Murchison (WA).   
