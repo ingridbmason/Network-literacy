@@ -1,4 +1,10 @@
-@title[Network Literacy]
+---
+marp:true
+theme: default
+paginate: true
+title: Network Literacy
+---
+
 ### Data Handling and Network Literacy
 <p style="color:gray">Data movement and network know-how</p>
 <p style="font-size:0.6em; color:gray">A train the trainer workshop</p> 
@@ -51,7 +57,7 @@ File sizes and file numbers that make up a dataset or data collection can vary a
 - Traceroute &#128270;
 - Transfer bingo &#129299;
 
-+++
+---
 
 @title[Speed Test]
 ### Speed Test &#128640;
