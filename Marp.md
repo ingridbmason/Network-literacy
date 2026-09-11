@@ -1,5 +1,5 @@
 ---
-marp:true
+marp: true
 theme: default
 paginate: true
 title: Network Literacy
