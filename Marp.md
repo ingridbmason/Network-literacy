@@ -1,4 +1,3 @@
-</> Markdown
 ---
 marp:true
 theme: default
